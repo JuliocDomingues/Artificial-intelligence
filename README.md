@@ -1,2 +1,2 @@
 # Inteligência Artificial
-Projetos de inteligência Artificial feito em Python.
+Projetos de inteligência Artificial feitos em Python.
